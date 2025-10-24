@@ -1,21 +1,139 @@
 <h1 align="center">Luis Gerardo Urtubey</h1>
-<h3 align="center">FullStack Web developer</h3>
-<h5 align="left">💻<i> Puedes ver mis trabajos en: </i> <a href="#" target="_blank" rel="noreferrer">MI PORTFOLIO</a></h5> 
 
-<h5 align="left">🔹 FRONTEND</h5>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>  
-<h5 align="left">🔹 BACKEND</h5>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<h5 align="left">🔹 HERRAMIENTAS</h5>
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cpanel.net/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/2tWKT__cpanel.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/Fzp3b__xampp.svg" alt="bash" width="40" height="40"/> </a>  </p>
-<h5 align="left">🔹 OS</h5>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://fedoraproject.org/es/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://neon.kde.org/" target="_blank" rel="noreferrer"> <img src="https://neon.kde.org/content/neon-logo.svg" alt="linux" width="40" height="40"/> </a>
+---
+
+<h3 align="center">
+  <strong>Full Stack Developer</strong><br>
+  Open to LMIA sponsorship<br>
+  Passionate about building secure, scalable, maintainable and inclusive web solutions.
+</h3>
+
+<p align="center">
+  <a href="https://github.com/LuchoUrtubey?tab=followers">
+    <img src="https://img.shields.io/github/followers/LuchoUrtubey?style=social" alt="GitHub followers"/>
+  </a>
+  <a href="https://stars.github.com/profiles/LuchoUrtubey/">
+  <img src="https://img.shields.io/github/stars/LuchoUrtubey?style=social" alt="GitHub stars"/>
+  </a>
+  <a href="https://youtube.com/UCTGuspmcC2if9N5knX0eUEw?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCTGuspmcC2if9N5knX0eUEw?style=social" alt="YouTube subscribers"/>
+  </a>
+  <a href="https://twitch.com/luchourtubey">
+    <img src="https://img.shields.io/twitch/status/luchourtubey?style=social" alt="Twitch status"/>
+  </a>
 </p>
 
-<h3 align="left">🪪 Sígueme en mis redes:</h3>
+---
+
+## 📫 Contact
+
+Connect with me on LinkedIn:
+
+<a href="https://www.linkedin.com/in/luisgerardourtubey/" target="_blank">
+  <img src="./img/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+
+You can also reach me by email:
+
+**luisgerardourtubey@gmail.com**
+
+<a href="mailto:luisgerardourtubey@gmail.com" target="_blank">
+  <img src="./img/mail-ios.svg" alt="Email" title="Email" width="30" height="30"/>
+</a>
+
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/RedDot.svg" alt="location" width="12" height="12"/> Buenos Aires (CABA), Argentina -->
+
+---
+
+## 💻 Portfolio
+
+**🚧 currently under construction!**
+Explore my portfolio site: [MI PORTFOLIO](https://github.com/LuchoUrtubey/luchourtubey.github.io)
+
+---
+
+## 🔹 Frontend
+
 <p align="left">
-<a href="https://linkedin.com/in/luisgerardourtubey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisgerardourtubey/" height="30" width="40" /></a>  
-<a href="https://twitter.com/luchourtubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luchourtubey" height="30" width="40" /></a>
-<a href="https://instagram.com/urtubeylucho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luchourtubey" height="30" width="40" /></a>
+  <img src="./img/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="./img/w3_css-icon.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="./img/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="./img/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="./img/vuejs-icon.svg" alt="Vue.js" title="Vue.js" width="40" height="40"/>
+  <img src="./img/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
 </p>
 
+Solid experience in frontend development using **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**, with frameworks like **Vue.js** and **React**.  
+Thanks to my strong CSS foundation, I can easily adapt to styling frameworks such as **Bootstrap**, **Tailwind**, or **Bulma** when needed.  
+I also apply **SEO best practices** to ensure accessible, performant, and discoverable web interfaces.
+
+## 🔹 Backend
+
+<p align="left">
+  <img src="./img/php-icon.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="./img/codeigniter.svg" alt="CodeIgniter" title="CodeIgniter" width="40" height="40"/>
+  <img src="./img/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="./img/mysql-official.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+</p>
+
+Extensive experience in backend development using **PHP**, the **CodeIgniter** framework, and **MySQL** for database management.  
+Skilled in designing and consuming **RESTful APIs**, following **MVC architecture** and applying **SOLID principles** for clean and scalable code.  
+Currently expanding my skill set through studies in **Data Science** and **Artificial Intelligence**, with a focus on Python-based tools and workflows.
+
+## 📱 Hybrid Mobile Development
+
+<p align="left">
+  <img src="./img/ionicframework-icon.svg" alt="Ionic" title="Ionic" width="40" height="40"/>
+  <img src="./img/VectorWiki-F79rZ__react-native.svg" alt="React Native" title="React Native" width="40" height="40"/>
+</p>
+
+Experience building hybrid mobile applications using **Ionic** and **React Native**, integrating web technologies with native components.
+
+## 🔹 Tools
+
+<p align="left">
+  <img src="./img/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="./img/gnu_bash-icon.svg" alt="Bash" title="GNU Bash" width="40" height="40"/>
+</p>
+
+Experience using essential development tools such as **Git** for version control and **GNU Bash** for scripting and automation.
+
+## 🔹 Operating Systems (OS)
+
+<p align="left">
+  <img src="./img/linux-icon.svg" alt="GNU/Linux" title="GNU/Linux" width="40" height="40"/>
+  <img src="./img/getfedora-icon.svg" alt="Fedora Linux" title="Fedora Linux" width="40" height="40"/>
+  <img src="./img/ubuntu-icon.svg" alt="Ubuntu Linux" title="Ubuntu Linux" width="40" height="40"/>
+</p>
+
+Proficient in **GNU/Linux** environments, with hands-on experience using **Fedora Linux** and **Ubuntu Linux** for development, testing, and deployment.
+
+---
+
+## 🎥 Videos & Streaming
+
+En **YouTube**, voy a publicar explicaciones sobre temas que ya domino y también sobre lo que voy aprendiendo.  
+En **Twitch**, transmito sesiones de estudio y ejercicios de programación en vivo, de forma espontánea y sin guión, respondiendo preguntas si surgen.
+
+<p align="left">
+  <a href="https://www.youtube.com/@luchourtubey" target="_blank">
+    <img src="./img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30" style="margin-right:15px;"/>
+  </a>
+  <a href="https://www.twitch.tv/luchourtubey" target="_blank">
+    <img src="./img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30" style="margin-right:15px;"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Apoyá mi trabajo
+
+Si te resultó útil mi contenido o querés apoyar mi camino como desarrollador y educador, podés:
+
+- ⭐ Darle una estrella a alguno de mis repositorios en [GitHub](https://github.com/LuchoUrtubey?tab=repositories)
+- 👤 Seguirme en [GitHub](https://github.com/LuchoUrtubey?tab=followers) para ver mis próximos proyectos
+- 📺 Suscribirte a mi canal de [YouTube](https://www.youtube.com/@luchourtubey)
+- 🎥 Seguirme en [Twitch](https://www.twitch.tv/luchourtubey)
+- ☕ Invitarme un café (próximamente)
+
+Gracias por acompañarme en este camino técnico y educativo 🚀
