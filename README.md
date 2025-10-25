@@ -26,7 +26,7 @@
 Connect with me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/luisgerardourtubey/" target="_blank">
-  <img src="./img/linkedin.png" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://luchourtubey.github.io/img/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
 You can also reach me by email:
@@ -34,7 +34,7 @@ You can also reach me by email:
 **luisgerardourtubey@gmail.com**
 
 <a href="mailto:luisgerardourtubey@gmail.com" target="_blank">
-  <img src="./img/mail.png" alt="Email" title="Email" width="30" height="30"/>
+  <img src="https://luchourtubey.github.io/img/mail-ios.svg" alt="Email" title="Email" width="30" height="30"/>
 </a>
 
 ## 💻 Portfolio
@@ -45,12 +45,12 @@ Explore my portfolio site: [MI PORTFOLIO](https://github.com/LuchoUrtubey/luchou
 ## 🔹 Frontend
 
 <p align="left">
-  <img src="./img/html.png" alt="HTML5" title="HTML5" width="40" height="40"/>
-  <img src="./img/css.png" alt="CSS3" title="CSS3" width="40" height="40"/>
-  <img src="./img/js.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="./img/ts.png" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-  <img src="./img/vuejs.png" alt="Vue.js" title="Vue.js" width="40" height="40"/>
-  <img src="./img/react.png" alt="React" title="React" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/w3_html5-icon.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/w3_css-icon.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/javascript-icon.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/typescriptlang-icon.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/vuejs-icon.svg" alt="Vue.js" title="Vue.js" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
 </p>
 
 Solid experience in frontend development using **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**, with frameworks like **Vue.js** and **React**.  
@@ -60,10 +60,10 @@ I also apply **SEO best practices** to ensure accessible, performant, and discov
 ## 🔹 Backend
 
 <p align="left">
-  <img src="./img/php.png" alt="PHP" title="PHP" width="40" height="40"/>
-  <img src="./img/ci.png" alt="CodeIgniter" title="CodeIgniter" width="40" height="40"/>
-  <img src="./img/python.png" alt="Python" title="Python" width="40" height="40"/>
-  <img src="./img/mysql.png" alt="MySQL" title="MySQL" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/php-icon.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/codeigniter.svg" alt="CodeIgniter" title="CodeIgniter" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/mysql-official.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
 </p>
 
 Extensive experience in backend development using **PHP**, the **CodeIgniter** framework, and **MySQL** for database management.  
@@ -73,8 +73,8 @@ Currently expanding my skill set through studies in **Data Science** and **Artif
 ## 📱 Hybrid Mobile Development
 
 <p align="left">
-  <img src="./img/ionic.png" alt="Ionic" title="Ionic" width="40" height="40"/>
-  <img src="./img/react-native.png" alt="React Native" title="React Native" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/ionicframework-icon.svg" alt="Ionic" title="Ionic" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/VectorWiki-F79rZ__react-native.svg" alt="React Native" title="React Native" width="40" height="40"/>
 </p>
 
 Experience building hybrid mobile applications using **Ionic** and **React Native**, integrating web technologies with native components.
@@ -82,8 +82,8 @@ Experience building hybrid mobile applications using **Ionic** and **React Nativ
 ## 🔹 Tools
 
 <p align="left">
-  <img src="./img/git.png" alt="Git" title="Git" width="40" height="40"/>
-  <img src="./img/bash.png" alt="Bash" title="GNU Bash" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/gnu_bash-icon.svg" alt="Bash" title="GNU Bash" width="40" height="40"/>
 </p>
 
 Experience using essential development tools such as **Git** for version control and **GNU Bash** for scripting and automation.
@@ -91,9 +91,9 @@ Experience using essential development tools such as **Git** for version control
 ## 🔹 Operating Systems (OS)
 
 <p align="left">
-  <img src="./img/linux.png" alt="GNU/Linux" title="GNU/Linux" width="40" height="40"/>
-  <img src="./img/fedora.png" alt="Fedora Linux" title="Fedora Linux" width="40" height="40"/>
-  <img src="./img/ubuntu.png" alt="Ubuntu Linux" title="Ubuntu Linux" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/linux-icon.svg" alt="GNU/Linux" title="GNU/Linux" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/getfedora-icon.svg" alt="Fedora Linux" title="Fedora Linux" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/ubuntu-icon.svg" alt="Ubuntu Linux" title="Ubuntu Linux" width="40" height="40"/>
 </p>
 
 Proficient in **GNU/Linux** environments, with hands-on experience using **Fedora Linux** and **Ubuntu Linux** for development, testing, and deployment.
@@ -105,10 +105,10 @@ En **Twitch**, transmito sesiones de estudio y ejercicios de programación en vi
 
 <p align="left">
   <a href="https://www.youtube.com/@luchourtubey" target="_blank">
-    <img src="./img/youtube.png" alt="YouTube" title="YouTube" width="30" height="30" style="margin-right:15px;"/>
+    <img src="https://luchourtubey.github.io/img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30" style="margin-right:15px;"/>
   </a>
   <a href="https://www.twitch.tv/luchourtubey" target="_blank">
-    <img src="./img/twitch.png" alt="Twitch" title="Twitch" width="30" height="30" style="margin-right:15px;"/>
+    <img src="https://luchourtubey.github.io/img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30" style="margin-right:15px;"/>
   </a>
 </p>
 
