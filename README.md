@@ -104,13 +104,9 @@ En **YouTube**, voy a publicar explicaciones sobre temas que ya domino y tambié
 En **Twitch**, transmito sesiones de estudio y ejercicios de programación en vivo, de forma espontánea y sin guión, respondiendo preguntas si surgen.
 
 <p align="left">
-  <a href="https://www.youtube.com/@luchourtubey" target="_blank">
-    <img src="https://luchourtubey.github.io/img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30"/>
-  </a>
+  <a href="https://www.youtube.com/@luchourtubey" target="_blank"><img src="https://luchourtubey.github.io/img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30"/></a>
   &nbsp;
-  <a href="https://www.twitch.tv/luchourtubey" target="_blank">
-    <img src="https://luchourtubey.github.io/img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30"/>
-  </a>
+  <a href="https://www.twitch.tv/luchourtubey" target="_blank"><img src="https://luchourtubey.github.io/img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30"/></a>
 </p>
 
 ## 🤝 Apoyá mi trabajo
