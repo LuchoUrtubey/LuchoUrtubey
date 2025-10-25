@@ -1,7 +1,5 @@
 <h1 align="center">Luis Gerardo Urtubey</h1>
 
----
-
 <h3 align="center">
   <strong>Full Stack Developer</strong><br>
   Open to LMIA sponsorship<br>
@@ -23,8 +21,6 @@
   </a>
 </p>
 
----
-
 ## 📫 Contact
 
 Connect with me on LinkedIn:
@@ -41,16 +37,10 @@ You can also reach me by email:
   <img src="./img/mail-ios.svg" alt="Email" title="Email" width="30" height="30"/>
 </a>
 
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/RedDot.svg" alt="location" width="12" height="12"/> Buenos Aires (CABA), Argentina -->
-
----
-
 ## 💻 Portfolio
 
 **🚧 currently under construction!**
 Explore my portfolio site: [MI PORTFOLIO](https://github.com/LuchoUrtubey/luchourtubey.github.io)
-
----
 
 ## 🔹 Frontend
 
@@ -108,8 +98,6 @@ Experience using essential development tools such as **Git** for version control
 
 Proficient in **GNU/Linux** environments, with hands-on experience using **Fedora Linux** and **Ubuntu Linux** for development, testing, and deployment.
 
----
-
 ## 🎥 Videos & Streaming
 
 En **YouTube**, voy a publicar explicaciones sobre temas que ya domino y también sobre lo que voy aprendiendo.  
@@ -123,8 +111,6 @@ En **Twitch**, transmito sesiones de estudio y ejercicios de programación en vi
     <img src="./img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30" style="margin-right:15px;"/>
   </a>
 </p>
-
----
 
 ## 🤝 Apoyá mi trabajo
 
