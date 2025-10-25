@@ -31,7 +31,7 @@ Connect with me on LinkedIn:
 
 You can also reach me by email:
 
-**luisgerardourtubey@gmail.com**
+<b><i>luisgerardourtubey@gmail.com</i></b>
 
 <a href="mailto:luisgerardourtubey@gmail.com" target="_blank">
   <img src="https://luchourtubey.github.io/img/mail-ios.svg" alt="Email" title="Email" width="30" height="30"/>
@@ -39,8 +39,8 @@ You can also reach me by email:
 
 ## 💻 Portfolio
 
-**🚧 currently under construction!**
-Explore my portfolio site: [MI PORTFOLIO](https://github.com/LuchoUrtubey/luchourtubey.github.io)
+**🚧 currently under construction!**<br>
+Explore my portfolio site: [MI PORTFOLIO](https://luchourtubey.github.io/)
 
 ## 🔹 Frontend
 
