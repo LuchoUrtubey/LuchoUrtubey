@@ -6,20 +6,20 @@
   Passionate about building secure, scalable, maintainable and inclusive web solutions.
 </h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/LuchoUrtubey?tab=followers">
-    <img src="https://img.shields.io/github/followers/LuchoUrtubey?style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/LuchoUrtubey?style=social" alt="GitHub followers" style="text-decoration:none;"/>
   </a>
   <a href="https://stars.github.com/profiles/LuchoUrtubey/">
-  <img src="https://img.shields.io/github/stars/LuchoUrtubey?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/stars/LuchoUrtubey?style=social" alt="GitHub stars" style="text-decoration:none;"/>
   </a>
   <a href="https://youtube.com/UCTGuspmcC2if9N5knX0eUEw?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCTGuspmcC2if9N5knX0eUEw?style=social" alt="YouTube subscribers"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCTGuspmcC2if9N5knX0eUEw?style=social" alt="YouTube subscribers" style="text-decoration:none;"/>
   </a>
   <a href="https://twitch.com/luchourtubey">
-    <img src="https://img.shields.io/twitch/status/luchourtubey?style=social" alt="Twitch status"/>
+    <img src="https://img.shields.io/twitch/status/luchourtubey?style=social" alt="Twitch status" style="text-decoration:none;"/>
   </a>
-</p>
+</div>
 
 ## 📫 Contact
 
