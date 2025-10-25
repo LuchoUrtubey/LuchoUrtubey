@@ -52,7 +52,7 @@ I also apply **SEO best practices** to ensure accessible, performant, and discov
 ## 🔹 Backend
 
 <p align="left">
-  <img src="https://luchourtubey.github.io/img/php-icon.svg" alt="PHP" title="PHP" width="40" height="40"/>
+  <img src="https://luchourtubey.github.io/img/php-logo.svg" alt="PHP" title="PHP" width="40" height="40"/>
   <img src="https://luchourtubey.github.io/img/codeigniter.svg" alt="CodeIgniter" title="CodeIgniter" width="40" height="40"/>
   <img src="https://luchourtubey.github.io/img/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
   <img src="https://luchourtubey.github.io/img/mysql-official.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
