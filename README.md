@@ -31,7 +31,7 @@ Connect with me on LinkedIn:
 
 You can also reach me by email:
 
-<b><i>luisgerardourtubey@gmail.com</i></b>
+<b><i>&nbsp;luisgerardourtubey@gmail.com</i></b>
 
 <a href="mailto:luisgerardourtubey@gmail.com" target="_blank">
   <img src="https://luchourtubey.github.io/img/mail-ios.svg" alt="Email" title="Email" width="30" height="30"/>
@@ -105,10 +105,11 @@ En **Twitch**, transmito sesiones de estudio y ejercicios de programación en vi
 
 <p align="left">
   <a href="https://www.youtube.com/@luchourtubey" target="_blank">
-    <img src="https://luchourtubey.github.io/img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30" style="margin-right:15px;"/>
+    <img src="https://luchourtubey.github.io/img/youtube-icon.svg" alt="YouTube" title="YouTube" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://www.twitch.tv/luchourtubey" target="_blank">
-    <img src="https://luchourtubey.github.io/img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30" style="margin-right:15px;"/>
+    <img src="https://luchourtubey.github.io/img/twitch-icon.svg" alt="Twitch" title="Twitch" width="30" height="30"/>
   </a>
 </p>
 
@@ -122,4 +123,3 @@ Si te resultó útil mi contenido o querés apoyar mi camino como desarrollador 
 - 🎥 Seguirme en [Twitch](https://www.twitch.tv/luchourtubey)
 - ☕ Invitarme un café (próximamente)
 
-Gracias por acompañarme en este camino técnico y educativo 🚀
