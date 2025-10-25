@@ -7,18 +7,10 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/LuchoUrtubey?tab=followers">
-    <img src="https://img.shields.io/github/followers/LuchoUrtubey" alt="GitHub followers"/>
-  </a>
-  <a href="https://stars.github.com/profiles/LuchoUrtubey/">
-  <img src="https://img.shields.io/github/stars/LuchoUrtubey" alt="GitHub stars"/>
-  </a>
-  <a href="https://youtube.com/UCTGuspmcC2if9N5knX0eUEw?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCTGuspmcC2if9N5knX0eUEw?style=social" alt="YouTube subscribers"/>
-  </a>
-  <a href="https://twitch.com/luchourtubey">
-    <img src="https://img.shields.io/twitch/status/luchourtubey?style=social" alt="Twitch status"/>
-  </a>
+  <a href="https://github.com/LuchoUrtubey?tab=followers"><img src="https://img.shields.io/github/followers/LuchoUrtubey" alt="GitHub followers"/></a>
+  <a href="https://stars.github.com/profiles/LuchoUrtubey/"><img src="https://img.shields.io/github/stars/LuchoUrtubey" alt="GitHub stars"/></a>
+  <a href="https://youtube.com/UCTGuspmcC2if9N5knX0eUEw?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCTGuspmcC2if9N5knX0eUEw?style=social" alt="YouTube subscribers"/></a>
+  <a href="https://twitch.com/luchourtubey"><img src="https://img.shields.io/twitch/status/luchourtubey?style=social" alt="Twitch status"/></a>
 </div>
 
 ## 📫 Contact
